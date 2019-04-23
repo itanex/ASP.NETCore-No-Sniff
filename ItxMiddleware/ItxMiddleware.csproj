@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>ItxMiddleware</RootNamespace>
+    <AssemblyName>ItxMiddleware</AssemblyName>
+    <Version>0.1.0</Version>
+    <Copyright>2019 itanex</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>
